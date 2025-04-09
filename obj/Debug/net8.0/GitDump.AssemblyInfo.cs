@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitDump")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32dbbb9e7d5f354d0837b307563fd2b1cb2c0c08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49e14dff33ea783d530b7b7faa8d05eb1bc54e9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitDump")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitDump")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

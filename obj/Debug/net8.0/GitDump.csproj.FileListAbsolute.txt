@@ -1,0 +1,15 @@
+D:\AllDemos\HexaMarch\GitDump\bin\Debug\net8.0\GitDump.exe
+D:\AllDemos\HexaMarch\GitDump\bin\Debug\net8.0\GitDump.deps.json
+D:\AllDemos\HexaMarch\GitDump\bin\Debug\net8.0\GitDump.runtimeconfig.json
+D:\AllDemos\HexaMarch\GitDump\bin\Debug\net8.0\GitDump.dll
+D:\AllDemos\HexaMarch\GitDump\bin\Debug\net8.0\GitDump.pdb
+D:\AllDemos\HexaMarch\GitDump\obj\Debug\net8.0\GitDump.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllDemos\HexaMarch\GitDump\obj\Debug\net8.0\GitDump.AssemblyInfoInputs.cache
+D:\AllDemos\HexaMarch\GitDump\obj\Debug\net8.0\GitDump.AssemblyInfo.cs
+D:\AllDemos\HexaMarch\GitDump\obj\Debug\net8.0\GitDump.csproj.CoreCompileInputs.cache
+D:\AllDemos\HexaMarch\GitDump\obj\Debug\net8.0\GitDump.sourcelink.json
+D:\AllDemos\HexaMarch\GitDump\obj\Debug\net8.0\GitDump.dll
+D:\AllDemos\HexaMarch\GitDump\obj\Debug\net8.0\refint\GitDump.dll
+D:\AllDemos\HexaMarch\GitDump\obj\Debug\net8.0\GitDump.pdb
+D:\AllDemos\HexaMarch\GitDump\obj\Debug\net8.0\GitDump.genruntimeconfig.cache
+D:\AllDemos\HexaMarch\GitDump\obj\Debug\net8.0\ref\GitDump.dll

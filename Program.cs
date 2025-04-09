@@ -1,10 +1,13 @@
 ﻿namespace gitdemo
 {
-    public static void main(String [] args)
+    public class Program
     {
-        int x=10;
-        int y=5;
-        int z = z + y;
-        Console.WriteLine(z);
+        public static void Main(string[] args)
+        {
+            int x = 10;
+            int y = 5;
+            int z = x + y;
+            Console.WriteLine(z);
+        }
     }
 }

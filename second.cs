@@ -8,5 +8,6 @@ namespace GitDump
 {
     class second
     {
+
     }
 }
